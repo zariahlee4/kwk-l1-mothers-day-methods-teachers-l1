@@ -5,5 +5,5 @@
 ## Call your method below - use puts to see it in the terminal!
 
 def 'mothers_day' ("Dork")
-  puts"Happy mother's Day, Mom!"
+  puts"Happy Mother's Day, Mom!"
 end
