@@ -1,6 +1,6 @@
 
-
-def name_length
+def name_length(value)
+if value <=3
   puts"whats your name?"
 x= gets.chomp! .to_i
 if name_length =< 3
