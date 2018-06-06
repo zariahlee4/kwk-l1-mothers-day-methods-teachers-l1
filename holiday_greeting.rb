@@ -1,4 +1,5 @@
 
+#name_length_random
 def name_length(value)
 if value <=3
   puts"whats your name?"
