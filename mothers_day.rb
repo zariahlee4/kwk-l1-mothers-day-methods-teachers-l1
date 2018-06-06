@@ -4,4 +4,6 @@
 
 ## Call your method below - use puts to see it in the terminal!
 
-puts mothers_day("dork")=dork
+def mothers_day
+  puts"Happy mother's Day, Mom!"
+end
